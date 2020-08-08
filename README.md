@@ -37,17 +37,8 @@ Sagar here. 👋.<br /><br>
 • System architecture and design (AI/Blockchain)<br />
 • Docker and microservices<br />
 
-**Blockchain**<br />
-• Ethereum<br />
-• ICON<br />
-• Hyperledger Fabric<br />
-• Harmony<br />
-
-**AI ML**<br />
-• Pytorch<br />
-• Keras<br />
-• Scikit Learn<br />
- <br />
-
+| Blockchain           | AI ML          |
+|----------------------|----------------|
+| • Ethereum <br/>• ICON <br/>• Hyperledger Fabric <br/> • Harmony          | • Pytorch <br/> • Keras <br/> • Scikit Learn    |
 
 Cheers!
