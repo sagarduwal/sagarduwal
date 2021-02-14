@@ -1,4 +1,4 @@
-<img align ="right" src = "https://github.com/sagarduwal/sagarduwal/oie_transparent.png" width="150" height="150">
+<img align ="right" src = "https://github.com/sagarduwal/sagarduwal/blob/master/oie_transparent.png" width="150" height="150">
 Sagar here. 👋.<br /><br>
  <p>
   <a href="https://www.linkedin.com/in/sagar-duwal-4771792a/">
