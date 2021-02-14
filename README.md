@@ -27,7 +27,7 @@ Sagar here. 👋.<br /><br>
 </p>
 
 > Experienced JAVA and Python Developer with a demonstrated history of working in the computer and network security industry.
-> With a very passionate and professional working attitude, I have experience working in the Blockchain industry for 2+ years, AI for 2+ years and core backend (Java/Python) development experience of 4+ years. 
+> With a very passionate and professional working attitude, I have experience working in the Blockchain industry for 3+ years, AI for 3+ years and core backend (Java/Python) development experience of 5+ years. 
 > I have worked with different teams to research and develop solutions on various Blockchain platforms. Developing customized decentralized applications for the businesses powered by Blockchain and Artificial intelligence makes me too excited and eager to learn more.
 
 **Skills and expertise**<br />
