@@ -1,4 +1,4 @@
-<img align ="right" src = "https://github.com/sagarduwal/sagarduwal/blob/master/oie_transparent.png" width="150" height="150">
+<a href="https://app.daily.dev/sagard"><img src="https://api.daily.dev/devcards/8ec408a95b834a5699d9792b4bca130d.png?r=16l" width="400" alt="Sagar D's Dev Card" align="right"/></a>
 Sagar here. 👋.<br /><br>
  <p>
   <a href="https://www.linkedin.com/in/sagar-duwal-4771792a/">
