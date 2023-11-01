@@ -5,7 +5,7 @@ Sagar here. 👋.<br /><br>
     <img src="https://img.shields.io/badge/sagar-duwal-4771792a?style=flat&logo=linkedin">
   </a> &nbsp;  &nbsp; 
   <a href="https://twitter.com/ultimateg33k">
-    <img src="https://img.shields.io/badge/@Sagar_Ultimate-30302f?style=flat&logo=twitter">
+    <img src="https://img.shields.io/badge/@ultimateg33k-30302f?style=flat&logo=twitter">
   </a> &nbsp;  &nbsp; 
  <a href="https://medium.com/@sagarduwal">
     <img src="https://img.shields.io/badge/sagarduwal-30302f?style=flat&logo=medium">
